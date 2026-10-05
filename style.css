@@ -1,0 +1,56 @@
+window {
+    background: transparent;
+    border-radius: 10px;
+    border: none;
+}
+
+#outer-box {
+    background: linear-gradient(to bottom, #1a1a1a, #111111);
+    border-radius: 10px;
+    padding: 8px;
+}
+
+#inner-box {
+    background-color: transparent;
+}
+
+#input {
+    background: linear-gradient(to bottom, #242424, #1a1a1a);
+    color: #f0f0f0;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 12px;
+    margin: 8px;
+    font-family: JetBrainsMono Nerd Font;
+    font-size: 14px;
+}
+
+#input placeholder {
+    color: #444444;
+}
+
+#scroll {
+    margin: 0 8px 8px 8px;
+}
+
+#entry {
+    padding: 6px 10px;
+    border-radius: 8px;
+    color: #cccccc;
+    background: transparent;
+}
+
+#entry:selected {
+    background: linear-gradient(to bottom, #242424, #1a1a1a);
+    color: #f0f0f0;
+}
+
+#text {
+    color: inherit;
+    font-family: JetBrainsMono Nerd Font;
+    font-size: 13px;
+}
+
+#img {
+    margin-right: 6px;
+}
