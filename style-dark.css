@@ -3,7 +3,7 @@ window {
   border: 1px solid #3a3a3a;
   border-radius: 8px;
   background-color: #161616;
-  font-family: 'Noto Sans Mono', monospace;
+  font-family: 'JetBrainsMono Nerd Font', 'Symbols Nerd Font', monospace;
 }
 
 #input {
